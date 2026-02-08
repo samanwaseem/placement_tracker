@@ -18,4 +18,26 @@ Workflow 1 (Saman Waseem): Adding the 'Add New Application' feature.
 
 Workflow 2
 
-Workflow 3
+
+
+Workflow 3 (Bareerah Shahid)
+
+Editing an Existing Application
+The user logs in and is taken to the dashboard.
+They see a list/table of all saved applications.
+The user clicks on an existing application entry.
+They click an “Edit” button (or pencil icon).
+A form opens with the already-filled details:
+a. Internship / Job
+b. Job Role / Title
+c. Company Name
+d. Job Description Link
+e. Salary Estimate
+f. Application Deadline
+g. Current Status
+The user updates one or more fields.
+The user clicks “Save Changes”.
+The form closes and the user is taken back to the dashboard.
+The updated information appears in the applications view.
+A confirmation dialogue appears: “Application Updated Successfully!”
+If the user clicks “Cancel”, no changes are saved and they return to the dashboard.
