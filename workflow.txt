@@ -1,9 +1,21 @@
 APPLICATION AND PLACEMENT TRACKER
 
-Workflow 1 (Saman Waseem)
+Workflow 1 (Saman Waseem): Adding the 'Add New Application' feature. 
 
+- The user would log in and be led to the dashboard.
+- They would click the '+ Add New Application' button.
+- A form would appear requiring: 
+  a. Specification of type: Internship / Job
+  b. Job Role / Title
+  c. Company Name
+  d. Job Description Link
+  e. Salary Estimate
+  f. Application Deadline
+  g. Current Status: Pending / Applied / Interview Stage / Accepted / Rejected / Ghosted / Dropped
+- The user then clicks 'save' and the form closes. They could also click 'cancel' to exit. In both cases, they would be led back to the main interface displaying their applications.
+- The entry is added to their applications view.
+- A confirmation dialogue box appear 'Application Added Successfully!'
 
 Workflow 2
-
 
 Workflow 3
