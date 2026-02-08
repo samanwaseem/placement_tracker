@@ -16,7 +16,23 @@ Workflow 1 (Saman Waseem): Adding the 'Add New Application' feature.
 - The entry is added to their applications view.
 - A confirmation dialogue box appear 'Application Added Successfully!'
 
-Workflow 2
+Workflow 2 (S.M. Abdullah Shabbir) - Deleting an Application
+
+- The user logs in and is taken to the dashboard.
+- The user can see their applications list.
+- The user locates the application they want to remove.
+- The user clicks the "Delete" button (or trash icon) next to the application.
+- A confirmation pop-up appears asking:
+  “Are you sure you want to delete this application?”
+  Options: Yes / No
+- If the user clicks "Yes":
+  - The application is removed from the list.
+  - The user remains on the dashboard.
+  - A confirmation message appears: “Application Deleted Successfully!”
+- If the user clicks "No":
+  - The confirmation pop-up closes.
+  - No changes are made to the application list.
+
 
 
 
